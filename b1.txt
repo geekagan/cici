@@ -1,1 +1,1 @@
-b1 master master
+b1 master master test ssh
